@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Belt.unity
+    guid: 5a0e869a14f4b417ba1578c6b3651568
   m_configObjects: {}
